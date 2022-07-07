@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Courtney Harris</h1>
+<h1 align="center">Hi 👋, I'm Courtney</h1>
 <h3 align="center">Software Engineer, Anime fanatic, Gunpla builder and carrier of the Hitchhiker's Guide to the Galaxy</h3>
 
 <p align="left"> <a href="https://twitter.com/charris_swe" target="blank"><img src="https://img.shields.io/twitter/follow/charris_swe?logo=twitter&style=for-the-badge" alt="charris_swe" /></a> </p>
