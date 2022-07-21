@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Rust, Python**
 
+- 📝 I regularly write articles on [https://dev.to/chmcmlxxxv](https://dev.to/chmcmlxxxv)
+
 - 📫 How to reach me **cjharris1985@gmail.com**
 
 - ⚡ Fun fact **Photographer and Gunpla builder...**
