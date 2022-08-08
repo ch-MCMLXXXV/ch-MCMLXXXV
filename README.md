@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Courtney</h1>
-<h3 align="center">Banker turned Software Developer...</h3>
+<h3 align="center">Banker turned Full Stack Engineer...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-mcmlxxxv&label=Profile%20views&color=0e75b6&style=flat" alt="ch-mcmlxxxv" /> </p>
 
